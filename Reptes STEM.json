@@ -1,0 +1,150 @@
+{
+    "reptes": [
+        {
+            "area": "Ciencias de la computación",
+            "pregunta": "¿Quién fue la primera programadora de la historia?",
+            "respostes": [
+                "Ada Lovelace",
+                "Grace Hopper",
+                "Anita Borg",
+                "Katherine Johnson"
+            ],
+            "resposta_correcta": 0,
+            "historia": "Ada Lovelace, también conocida como Ada Lovelace King, fue una matemática y escritora británica. Es conocida por haber escrito el primer algoritmo destinado a ser procesado por una máquina, lo que la convierte en la primera programadora de la historia."
+        },
+        {
+            "area": "Física",
+            "pregunta": "¿Quién fue la primera mujer en ganar un Premio Nobel de Física?",
+            "respostes": [
+                "Marie Curie",
+                "Jocelyn Bell Burnell",
+                "Chien-Shiung Wu",
+                "Maria Goeppert-Mayer"
+            ],
+            "resposta_correcta": 0,
+            "historia": "Marie Curie fue una física y química polaca, pionera en el campo de la radioactividad. Fue la primera mujer en ganar un Premio Nobel de Física en 1903, compartido con su esposo Pierre Curie y Henri Becquerel. En 1911, ganó otro Premio Nobel de Química por su trabajo en el aislamiento de elementos radiactivos."
+        },
+        {
+            "area": "Biología",
+            "pregunta": "¿Quién descubrió la estructura del ADN?",
+            "respostes": [
+                "Rosalind Franklin",
+                "Barbara McClintock",
+                "Dorothy Hodgkin",
+              "Rita Levi-Montalcini"
+            ],
+            "resposta_correcta": 0,
+            "historia": "Rosalind Franklin fue una bióloga británica que jugó un papel clave en el descubrimiento de la estructura del ADN. Su trabajo con la difracción de rayos X fue fundamental para el descubrimiento, aunque sus contribuciones no fueron reconocidas hasta después de su muerte."
+        },
+        {
+            "area": "Matemáticas",
+            "pregunta": "¿Quién fue la primera mujer en ganar la Medalla Fields?",
+            "respostes": [
+                "Maryam Mirzakhani",
+                "Emmy Noether",
+                "Sophie Germain",
+                "Maria Gaetana Agnesi"
+            ],
+            "resposta_correcta": 0,
+            "historia": "Maryam Mirzakhani fue una matemática iraní-estadounidense, especializada en la geometría de las superficies de Riemann y sus moduli. Fue la primera mujer en ganar la Medalla Fields en 2014, uno de los premios más prestigiosos en matemáticas."
+        },
+        {
+            "area": "Física",
+            "pregunta": "¿Quién fue la primera mujer en ganar un premio Nobel de Física?",
+            "respostes": [
+                "Marie Curie",
+                "Lise Meitner",
+                "Chien-Shiung Wu",
+                "Donna Strickland"
+            ],
+            "resposta_correcta": 0,
+            "historia": "Marie Curie fue la primera mujer en ganar un premio Nobel de Física en 1903 por su trabajo en radiactividad."
+        },
+        {
+            "area": "Matemáticas",
+            "pregunta": "¿Quién es conocida como la 'primera programadora'?",
+            "respostes": [
+                "Ada Lovelace",
+                "Grace Hopper",
+                "Katherine Johnson",
+                "Mary Jackson"
+            ],
+            "resposta_correcta": 0,
+            "historia": "Ada Lovelace es conocida como la 'primera programadora' por su trabajo en el diseño de la Máquina Analítica de Charles Babbage en la década de 1840."
+        },
+        {
+            "area": "Química",
+            "pregunta": "¿Quién fue la primera mujer en recibir un premio Nobel de Química?",
+            "respostes": [
+                "Marie Curie",
+                "Dorothy Crowfoot Hodgkin",
+                "Irène Joliot-Curie",
+                "Frances Arnold"
+            ],
+            "resposta_correcta": 1,
+            "historia": "Dorothy Crowfoot Hodgkin fue la primera mujer en recibir un premio Nobel de Química en 1964 por su trabajo en la cristalografía de rayos X."
+        },
+        {
+            "area": "Biología",
+            "pregunta": "¿Quién descubrió la estructura del ADN?",
+            "respostes": [
+                "Rosalind Franklin",
+                "Marie Curie",
+                "Barbara McClintock",
+                "Rachel Carson"
+            ],
+            "resposta_correcta": 0,
+            "historia": "Rosalind Franklin fue una cristalógrafa de rayos X cuyo trabajo fue fundamental para el descubrimiento de la estructura del ADN."
+        },
+        {
+            "area": "Astronomía",
+            "pregunta": "¿Quién fue la primera mujer en ganar un premio Nobel de Física?",
+            "respostes": [
+                "Marie Curie",
+                "Vera Rubin",
+                "Jocelyn Bell Burnell",
+                "Sally Ride"
+            ],
+            "resposta_correcta": 2,
+            "historia": "Jocelyn Bell Burnell fue una astrofísica británica cuyo trabajo fue fundamental en el descubrimiento de los púlsares."
+        },
+
+        {
+            "area": "Matemàtiques",
+            "pregunta": "Quina és la suma dels angles interns d'un triangle?",
+            "respostes": [
+                "180 graus",
+                "90 graus",
+                "270 graus",
+                "360 graus"
+            ],
+            "resposta_correcta": 0,
+            "historia": "Emmy Noether va ser una matemàtica alemanya que va fer contribucions importants en àrees com l'àlgebra abstracta i la teoria de grups. Va ser una de les poques dones a qui es va permetre assistir a classes universitàries de matemàtiques a l'època i va ser professora a la Universitat de Göttingen."
+        },
+        {
+            "area": "Ciència",
+            "pregunta": "Quin element químic té el símbol 'He'?",
+            "respostes": [
+                "Heli",
+                "Hidrogen",
+                "Nitrògen",
+                "Oxigen"
+            ],
+            "resposta_correcta": 0,
+            "historia": "Chien-Shiung Wu va ser una física xinesa-americana que va fer contribucions importants en àrees com la física nuclear i la simetria de paritat. Va ser la primera dona que va ser presidenta de la American Physical Society i va ser coneguda com la 'reina de la física nuclear'."
+        },
+        {
+            "area": "Enginyeria",
+            "pregunta": "Quina és la funció principal d'un motor de combustió interna?",
+            "respostes": [
+                "Convertir l'energia química del combustible en energia mecànica",
+                "Generar electricitat",
+                "Desplaçar aire per produir propulsió",
+                "Drenar líquids i gasos residuals"
+            ],
+            "resposta_correcta": 0,
+            "historia": "Edith Clarke va ser una enginyera elèctrica nord-americana que va fer contribucions importants en àrees com la teoria de circuits i la transmissió d'energia elèctrica. Va ser la primera dona enginyera elèctrica a treballar per la empresa General Electric i va ser la primera dona a ser elegida a la American Institute of Electrical Engineers."
+        }
+
+    ]
+}
